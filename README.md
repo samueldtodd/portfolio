@@ -1,3 +1,3 @@
-## Samuel Todd
+# Samuel Todd
 
-# Probability
+## Probability
