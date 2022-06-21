@@ -1,2 +1,1 @@
-# portfolio
-Samuel Todd Portfolio
+# Samuel Todd Portfolio
